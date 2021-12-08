@@ -1,7 +1,7 @@
 ### Hi there 👋 
 My name is Tianjian Li. Currently in Beijing working as an intern in Baidu Maps.  
   
-My research interests mainly concern representation learning in graphs,   
+My research interests mainly concern representation learning in graphs, both homogeneous and heterogeneous ones
 especially using graph neural networks to enhance the performace of traffic planning and forcasting models.  
   
 
