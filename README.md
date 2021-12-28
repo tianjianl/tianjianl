@@ -8,6 +8,6 @@ My other fields of interest include representation learning, knowledge discovery
 
 I am also an amateur Go(the chess, not the programming language) player, a veteran M:TG player(current rank #1070), and a San Antonio Spurs fan since 2011.  
 
-If you have anything to share with me, please feel free to contact me through my email: litianjian98@google.com  
+If you have anything to share with me, please feel free to contact me through my email: tl2387@nyu.edu
 
 
