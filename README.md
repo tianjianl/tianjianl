@@ -1,5 +1,5 @@
 ### Hi there 👋 
-My name is Tianjian Li, currently in Beijing working as an machine learning engineer intern at Baidu Maps.  
+My name is Tianjian Li, currently in Beijing working as an machine learning engineer intern at Baidu Maps. 
   
 My research interests mainly concern representation learning in non-Euclidean structures, 
 especially using graph neural networks to enhance the performace of traffic planning and forecasting models.  
