@@ -2,7 +2,7 @@
 My name is Tianjian Li, currently in Beijing working as an machine learning engineer intern at Baidu Maps. 
   
 My research interests mainly concern representation learning in non-Euclidean structures, 
-especially using graph neural networks to enhance the performace of traffic planning and forecasting models.  
+especially using graph neural networks to enhance the performace of spatial-temporal modeling
 
 My other fields of interest include recommender systems, knowledge graphs and information retrieval.  
 
