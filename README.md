@@ -8,6 +8,8 @@ My other fields of interest include recommender systems, information retrieval a
 
 I am also an amateur Go(the chess, not the programming language) player and a San Antonio Spurs fan since 2011.  
 
-If you have anything to share with me, please feel free to contact me through my email: tl2387@nyu.edu
+
+
+[Here](https://github.com/truthbutcher/studymaterials/blob/main/CV_Tianjian_2022_Homepage.pdf) is my CV. If you have anything to share with me, please feel free to contact me through my email: tl2387@nyu.edu
 
 
