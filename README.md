@@ -4,8 +4,6 @@ My name is Tianjian Li, currently in Beijing working as an machine learning engi
 My research interests mainly concern representation learning in non-Euclidean structures, 
 especially using graph neural networks to enhance the performace of spatial-temporal modeling
 
-My other fields of interest include recommender systems, information retrieval and the robustness of graph neural networks.  
-
 I am also an amateur Go(the chess, not the programming language) player and a San Antonio Spurs fan since 2011.  
 
 
