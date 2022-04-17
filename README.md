@@ -1,5 +1,5 @@
 ### Hi there 👋 
-My name is Tianjian Li, currently doing research on multilingual NLP.
+My name is Tianjian Li, currently doing research on multilingual NLP. 
   
 My research interests mainly concern representation learning in non-Euclidean structures, 
 especially using graph neural networks to enhance the performace of spatial-temporal modeling
