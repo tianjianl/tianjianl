@@ -1,11 +1,12 @@
 ### Hi there 👋 
-My name is Tianjian Li, currently doing research on multilingual NLP. 
-  
-My research interests mainly concern representation learning in non-Euclidean structures, 
-especially using graph neural networks to enhance the performace of spatial-temporal modeling
+My name is Tianjian Li, I have received my B.A. in Mathematics and Computer Science from New York University. I will be pursuing a M.S. degree at Johns Hopkins University starting from fall 2022.
 
-I am also an amateur Go(the chess, not the programming language) player and a San Antonio Spurs fan since 2011. I enjoy watching old movies during my spare time. 
+My current research interests span natural language processing with deep learning. I am currently focusing on multilingual NLP. I aim to design more resource efficient algorithms for 1) Improving the ability for smaller models to perform zero-shot/few-shot transfer learning tasks and 2) Enhancing  performance on various tasks on low resource languages. 
 
-If you have anything to share with me, please feel free to contact me through my email: tl2387@nyu.edu
+I am also interested in more broader topics in NLP that may or may not be about deep learning: parsing, POS tagging, CF grammar, phase alignment...
+
+I enjoy watching old movies as well as spending time with the nature during my spare time. Besides, I am a amateur Go(the chess, not the programming language) player. 
+
+If you have anything to share with me, please feel free to contact me through my email: tli104@jhu.edu
 
 
