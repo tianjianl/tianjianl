@@ -5,8 +5,6 @@ My current research interests span natural language processing with deep learnin
 
 I am also interested in more broader topics in NLP that may or may not be about deep learning: parsing, POS tagging, CF grammar, phase alignment...
 
-I enjoy watching old movies as well as spending time with the nature during my spare time. Besides, I am a amateur Go(the chess, not the programming language) player. 
-
-If you have anything to share with me, please feel free to contact me through my email: tli104@jhu.edu
+I enjoy watching old movies as well as spending time with the nature during my spare time. If you have anything to share with me, please feel free to contact me through my email: tli104@jhu.edu
 
 
