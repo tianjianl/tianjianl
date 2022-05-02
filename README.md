@@ -1,7 +1,7 @@
 ### Hi there 👋 
 My name is Tianjian Li. I have received my B.A. in Mathematics and Computer Science from New York University. I will be pursuing a M.S. degree at Johns Hopkins University starting from fall 2022.
 
-My current research interests span natural language processing with deep learning. I am currently focusing on multilingual NLP. I aim to design more resource efficient algorithms for 1) Improving the ability for smaller models to perform zero-shot/few-shot transfer learning tasks and 2) Enhancing  performance on various tasks on low resource languages. 
+My current research interests span natural language processing with deep learning. I am currently focusing on multilingual NLP. I aim to design more resource efficient algorithms for 1) Improving the ability for smaller models to perform zero-shot/few-shot transfer learning tasks; 2) Enhancing  performance on various tasks on low resource languages. 
 
 I am also interested in more broader topics in NLP that may or may not be about deep learning: parsing, POS tagging, CF grammar, phase alignment...
 
