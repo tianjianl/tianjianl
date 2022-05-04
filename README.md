@@ -5,7 +5,7 @@ My current research interests span natural language processing and deep learning
 
 I am also interested in more broader topics in NLP that may or may not be about deep learning, which includes but not limited to parsing, POS tagging, CF grammar, and phase alignment.
 
-There is a list of wonderful CS courses for self studying and my study notes under [this repository](https://github.com/truthbutcher/studymaterials), which I will try to update regularly.
+There is a list of wonderful CS courses for self studying as well as my study notes under [this repository](https://github.com/truthbutcher/studymaterials), which I will try to update regularly.
 
 I enjoy watching old movies as well as spending time with the nature during my spare time. 
 If you have anything to share with me, please feel free to contact me through my email: tli104@jhu.edu
