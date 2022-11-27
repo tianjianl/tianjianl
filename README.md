@@ -1,5 +1,5 @@
 ### Hi there 👋 
-My name is Tianjian Li. I have received my B.A. in Mathematics and Computer Science from New York University. I will be pursuing a M.S. degree at Johns Hopkins University starting from fall 2022. 
+My name is Tianjian Li. I have received my B.A. in Mathematics and Computer Science from New York University. I am now pursuing a M.S. degree at Johns Hopkins University. 
 
 I am currently doing research on cross-lingual transfer under the supervision of Prof. [Kenton Murray](https://kentonmurray.com/). My research interests mainly span natural language processing and deep learning. Currently focusing on NLP under multilingual settings, I aim to design more resource efficient algorithms for
 - Improving the perform zero-shot cross-lingual transferability of multilingual models; 
