@@ -1,18 +1,2 @@
-### Hi there 👋 
-My name is Tianjian Li. I have received my B.A. in Mathematics and Computer Science from New York University. I am now pursuing a M.S. degree at Johns Hopkins University. 
 
-I am currently doing research on cross-lingual transfer under the supervision of Prof. [Kenton Murray](https://kentonmurray.com/). My research interests mainly lies in the intersection of deep learning and natural language processing, with a focus on NLP under multilingual settings. I aim answer these two questions:
-
-- How to interpret parameter and data utility through the lens of machine translation?
-- How to build practical multilingual NLP systems with limited training data and computational resources?
-
-
-Previously, I was working as a research intern at the Knowledge Engineering Group of Tsinghua University, under the supervision of Prof. [Jie Tang](http://keg.cs.tsinghua.edu.cn/jietang/). I have built a 1B multilingual language model mGLM, which excels in multilingual generation tasks due to its autoregressive denoising pre-train objective. mGLM is now [open sourced](https://github.com/THUDM/Multilingual-GLM). We have also built a [cross-lingual summarizer](https://models.aminer.cn/mglm-1b/demo/) that takes a piece of text in any langauge and outputs a short summary in Chinese and English. 
-
-I enjoy watching old movies as well as spending time with the nature during my spare time. 
-If you have anything to share with me, please feel free to contact me through my email: tli104@jhu.edu
-
-### Publications 
-
-Tianjian Li and Kenton Murray. [Why Does Zero-Shot Cross-Lingual Generation Fail? An Explanation and a Solution](https://arxiv.org/abs/2305.17325). To Appear in Findings of ACL 2023
 
